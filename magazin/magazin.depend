@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1587560780 source:d:\fmi sem2\poo tema 2\magazin\main.cpp
+	<iostream>
+	"produs.h"
+	"bere_doza.h"
+	"cartofi.h"
+	"faina.h"
+	"jucarii.h"
+	"varza.h"
+	"vinsoi.h"
+	"vinvarsat.h"
+	<exception>
+
+1587512685 source:d:\fmi sem2\poo tema 2\magazin\produs.cpp
+	<iostream>
+	<string>
+	"produs.h"
+
+1587560766 d:\fmi sem2\poo tema 2\magazin\produs.h
+	<iostream>
+	<string>
+	"exceptie.h"
+
+1587319735 d:\fmi sem2\poo tema 2\magazin\produs.cpp
+	<iostream>
+	<string>
+	"produs.h"
+
+1587512684 source:d:\fmi sem2\poo tema 2\magazin\faina.cpp
+	<iostream>
+	<string>
+	"faina.h"
+
+1587511780 source:d:\fmi sem2\poo tema 2\magazin\varza.cpp
+	<iostream>
+	<string>
+	"varza.h"
+
+1587511780 d:\fmi sem2\poo tema 2\magazin\varza.h
+	<iostream>
+	<string>
+	"produs.h"
+
+1587512684 source:d:\fmi sem2\poo tema 2\magazin\bere_doza.cpp
+	<iostream>
+	<string>
+	"bere_doza.h"
+
+1587512684 d:\fmi sem2\poo tema 2\magazin\bere_doza.h
+	<iostream>
+	<string>
+	"produs.h"
+
+1587512684 d:\fmi sem2\poo tema 2\magazin\faina.h
+	<iostream>
+	<string>
+	"produs.h"
+
+1587512685 source:d:\fmi sem2\poo tema 2\magazin\vinsoi.cpp
+	<iostream>
+	<string>
+	"vinsoi.h"
+
+1587512684 d:\fmi sem2\poo tema 2\magazin\vinsoi.h
+	<iostream>
+	<string>
+	"produs.h"
+
+1587512684 source:d:\fmi sem2\poo tema 2\magazin\vinvarsat.cpp
+	<iostream>
+	<string>
+	"vinvarsat.h"
+
+1587512684 d:\fmi sem2\poo tema 2\magazin\vinvarsat.h
+	<iostream>
+	<string>
+	"produs.h"
+
+1587512684 source:d:\fmi sem2\poo tema 2\magazin\cartofi.cpp
+	<iostream>
+	<string>
+	"cartofi.h"
+
+1587512684 d:\fmi sem2\poo tema 2\magazin\cartofi.h
+	<iostream>
+	<string>
+	"produs.h"
+
+1587512684 source:d:\fmi sem2\poo tema 2\magazin\jucarii.cpp
+	<iostream>
+	<string>
+	"jucarii.h"
+
+1587512684 d:\fmi sem2\poo tema 2\magazin\jucarii.h
+	<iostream>
+	<string>
+	"produs.h"
+
+1587560546 d:\fmi sem2\poo tema 2\magazin\exceptie.h
+	<exception>
+
